@@ -127,4 +127,3 @@ class WeightedNode implements Comparable<WeightedNode> {
         this.right = right;
     }
 }
-
